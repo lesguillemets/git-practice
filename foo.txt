@@ -1,1 +1,3 @@
 this foo.txt is optional.
+
+additional texts!
